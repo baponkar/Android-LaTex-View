@@ -1,9 +1,9 @@
 # Android-LaTex-View
 Showing LaTex rendered text in android.
 
-![Screenshot-1](app\src\main\res\drawable\screenshot_1.png)
+![Screenshot-1]([app\src\main\res\drawable\screenshot_1.png](https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_1.png))
 
-![Screenshot-2](app\src\main\res\drawable\screenshot_2.png)
+![Screenshot-2]([app\src\main\res\drawable\screenshot_2.png](https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_2.png))
 
 ## Description :
 This project has a custom LaTexView which will show LaTex formula by using MathJax and html. A html file and a mathjax javascript located in resorce file.It has following characters.
