@@ -1,7 +1,7 @@
 # Android-LaTex-View
 Showing LaTex rendered text in android.
 
-<img src="https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_1.png" alt="drawing" width="200"/>
+<img src="https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_1.png" alt="drawing" width="100" height="200"/>
 <img src="https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_2.png" alt="drawing" width="200"/>
 
 ## Description :
