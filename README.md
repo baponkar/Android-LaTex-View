@@ -8,7 +8,7 @@ Showing LaTex rendered text in android.
 This project has a custom LaTexView which will show LaTex formula by using MathJax and html. A html file and a mathjax javascript located in resorce file.It has following characters.
 ```
  // Set text color
-    laTexView.setTextColor("#FF0000"); //Red color
+laTexView.setTextColor("#FF0000"); //Red color
 
 // Set text size
 laTexView.setTextSize("20px"); // 20px font size
