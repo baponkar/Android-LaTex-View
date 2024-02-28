@@ -1,7 +1,7 @@
 # Android-LaTex-View
 Showing LaTex rendered text in android.
 
-![Screenshot-1](.\app\src\main\res\drawable\screenshot_1.png)
+![Screenshot-1](https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_1.png)
 
 ![Screenshot-2]([app\src\main\res\drawable\screenshot_2.png](https://github.com/baponkar/Android-LaTex-View/blob/main/app/src/main/res/drawable/screenshot_2.png))
 
